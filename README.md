@@ -55,7 +55,7 @@ Exemplo de retorno da API:
 
 ## index.html (estrutura inicial)
 
-``` html
+```html
 <!doctype html>
 <html lang="pt-br">
   <head>
