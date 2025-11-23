@@ -35,6 +35,7 @@ Exemplo de retorno da API:
     }
   ]
 }
+```
 
 ## Estrutura de pastas
 
