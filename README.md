@@ -115,7 +115,7 @@ Exemplo de retorno da API:
 ## Como instalar
 
 ``` sh
-npm install datatables.net-dt
+npm install
 ```
 
 ## Como rodar o projeto
