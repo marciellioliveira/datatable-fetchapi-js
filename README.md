@@ -17,6 +17,25 @@ de dados, UI dinâmica e boas práticas no front-end.
 -   DataTables (datatables.net-dt)
 -   jQuery (instalado automaticamente pelo DataTables)
 
+## API utilizada
+
+Os dados utilizados no DataTable são obtidos da API pública:
+
+**https://dummyjson.com/users**
+
+Exemplo de retorno da API:
+```json
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "age": 28
+    }
+  ]
+}
+
 ## Estrutura de pastas
 
     datatable-fetchapi-js
